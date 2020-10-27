@@ -1,0 +1,2 @@
+# subtree-child
+git subtree
